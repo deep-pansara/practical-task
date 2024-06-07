@@ -1,0 +1,345 @@
+[
+  {
+    "productId": 1,
+    "productName": "Apple",
+    "productDescription": "The apple is one of the pome (fleshy) fruits. Apples at harvest vary widely in size, shape, colour, and acidity, but most are fairly round and some shade of red or yellow.",
+    "productImage": "1717728514673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 2,
+    "productName": "Apple",
+    "productDescription": "The apple is one of the pome (fleshy) fruits. Apples at harvest vary widely in size, shape, colour, and acidity, but most are fairly round and some shade of red or yellow.",
+    "productImage": "1717731425540.HEIC",
+    "isActive": false
+  },
+  {
+    "productId": 3,
+    "productName": "Orange",
+    "productDescription": "The orange is a citrus fruit that is typically round, orange-colored, and sweet. Oranges are rich in vitamin C and are enjoyed fresh or as juice.",
+    "productImage": "1717728534673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 4,
+    "productName": "Grapes",
+    "productDescription": "Grapes are small, round, and typically green or purple fruit that grow in clusters on vines. They can be eaten fresh, dried as raisins, or used to make wine.",
+    "productImage": "1717728544673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 5,
+    "productName": "Strawberry",
+    "productDescription": "Strawberries are bright red, juicy, and sweet. They are often eaten fresh or used in desserts, jams, and other culinary dishes.",
+    "productImage": "1717728554673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 6,
+    "productName": "Mango",
+    "productDescription": "Mangoes are tropical stone fruits, plump and oval in shape, and about the size of a grapefruit. They have a tough skin that ranges from green to yellow or red.",
+    "productImage": "1717728564673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 7,
+    "productName": "Pineapple",
+    "productDescription": "Pineapples are tropical fruits with a spiky, tough exterior and sweet, tangy flesh. They are used in both savory and sweet dishes.",
+    "productImage": "1717728574673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 8,
+    "productName": "Watermelon",
+    "productDescription": "Watermelons are large, round fruits with a green rind and sweet, juicy, red or yellow flesh. They are refreshing and hydrating, especially in summer.",
+    "productImage": "1717728584673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 9,
+    "productName": "Blueberry",
+    "productDescription": "Blueberries are small, round, and blue-purple berries that are sweet and nutritious. They are often used in desserts, jams, and as a fresh fruit.",
+    "productImage": "1717728594673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 10,
+    "productName": "Peach",
+    "productDescription": "Peaches are soft, juicy, and round fruits with fuzzy skin and a large pit. They are often eaten fresh or used in baking and desserts.",
+    "productImage": "1717728604673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 11,
+    "productName": "Cherry",
+    "productDescription": "Cherries are small, round fruits with a pit in the center. They are usually red or black and have a sweet or tart flavor.",
+    "productImage": "1717728614673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 12,
+    "productName": "Kiwi",
+    "productDescription": "Kiwis are small, oval fruits with fuzzy brown skin and bright green flesh. They are sweet and tangy with a unique flavor.",
+    "productImage": "1717728624673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 13,
+    "productName": "Pear",
+    "productDescription": "Pears are sweet, bell-shaped fruits that have a crisp texture when ripe. They can be eaten fresh, canned, or used in cooking.",
+    "productImage": "1717728634673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 14,
+    "productName": "Plum",
+    "productDescription": "Plums are small, round fruits with a pit in the center. They have smooth skin and come in various colors such as red, purple, and yellow.",
+    "productImage": "1717728644673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 15,
+    "productName": "Pomegranate",
+    "productDescription": "Pomegranates are round fruits with thick, red skin and many seeds inside. The seeds are juicy and have a tart-sweet flavor.",
+    "productImage": "1717728654673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 16,
+    "productName": "Lemon",
+    "productDescription": "Lemons are bright yellow citrus fruits known for their tart and acidic juice. They are used in cooking, baking, and beverages.",
+    "productImage": "1717728664673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 17,
+    "productName": "Lime",
+    "productDescription": "Limes are small, green citrus fruits with a tart and tangy flavor. They are often used in cooking, drinks, and garnishes.",
+    "productImage": "1717728674673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 18,
+    "productName": "Apricot",
+    "productDescription": "Apricots are small, orange fruits with smooth skin and a sweet-tart flavor. They can be eaten fresh or dried.",
+    "productImage": "1717728684673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 19,
+    "productName": "Blackberry",
+    "productDescription": "Blackberries are small, dark purple fruits with a sweet and slightly tart flavor. They are often used in desserts, jams, and as fresh fruit.",
+    "productImage": "1717728694673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 20,
+    "productName": "Cranberry",
+    "productDescription": "Cranberries are small, red berries that are tart in flavor. They are often used in sauces, juices, and baked goods.",
+    "productImage": "1717728704673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 21,
+    "productName": "Coconut",
+    "productDescription": "Coconuts are large fruits with a hard shell, white flesh, and a sweet, nutty flavor. The flesh can be eaten fresh or dried.",
+    "productImage": "1717728714673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 22,
+    "productName": "Papaya",
+    "productDescription": "Papayas are tropical fruits with orange flesh and a sweet, musky flavor. They are eaten fresh or used in smoothies and salads.",
+    "productImage": "1717728724673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 23,
+    "productName": "Passionfruit",
+    "productDescription": "Passionfruits are small, round fruits with a tough outer rind and juicy, seed-filled interior. They have a tart-sweet flavor.",
+    "productImage": "1717728734673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 24,
+    "productName": "Guava",
+    "productDescription": "Guavas are tropical fruits with green skin and pink or white flesh. They are sweet and fragrant with a unique flavor.",
+    "productImage": "1717728744673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 25,
+    "productName": "Fig",
+    "productDescription": "Figs are small, sweet fruits with a soft skin and a jam-like interior filled with tiny seeds. They can be eaten fresh or dried.",
+    "productImage": "1717728754673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 26,
+    "productName": "Date",
+    "productDescription": "Dates are sweet, chewy fruits that grow on date palm trees. They are often dried and used in desserts and snacks.",
+    "productImage": "1717728764673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 27,
+    "productName": "Jackfruit",
+    "productDescription": "Jackfruits are large, tropical fruits with a spiky outer skin and sweet, fibrous flesh inside. They can be eaten fresh or used in cooking.",
+    "productImage": "1717728774673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 28,
+    "productName": "Lychee",
+    "productDescription": "Lychees are small, round fruits with a rough, red skin and sweet, white flesh inside. They have a floral flavor and are often eaten fresh.",
+    "productImage": "1717728784673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 29,
+    "productName": "Nectarine",
+    "productDescription": "Nectarines are smooth-skinned fruits that are similar to peaches but without the fuzz. They are juicy and sweet with a firm texture.",
+    "productImage": "1717728794673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 30,
+    "productName": "Dragonfruit",
+    "productDescription": "Dragonfruits are tropical fruits with a bright pink or yellow skin and white or red flesh filled with tiny black seeds. They have a mild, sweet flavor.",
+    "productImage": "1717728804673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 31,
+    "productName": "Raspberry",
+    "productDescription": "Raspberries are small, red or black berries with a sweet-tart flavor. They are often used in desserts, jams, and as fresh fruit.",
+    "productImage": "1717728814673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 32,
+    "productName": "Mulberry",
+    "productDescription": "Mulberries are small, sweet berries that can be red, black, or white. They are often eaten fresh or dried.",
+    "productImage": "1717728824673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 33,
+    "productName": "Gooseberry",
+    "productDescription": "Gooseberries are small, round berries that can be green, red, or purple. They have a tart flavor and are often used in pies and jams.",
+    "productImage": "1717728834673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 34,
+    "productName": "Starfruit",
+    "productDescription": "Starfruits, or carambolas, are tropical fruits with a star-shaped cross section. They have a sweet-tart flavor and are often eaten fresh.",
+    "productImage": "1717728844673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 35,
+    "productName": "Tangerine",
+    "productDescription": "Tangerines are small, sweet citrus fruits with a loose skin that is easy to peel. They are similar to oranges but typically sweeter.",
+    "productImage": "1717728854673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 36,
+    "productName": "Cantaloupe",
+    "productDescription": "Cantaloupes are round melons with a netted skin and sweet, orange flesh. They are often eaten fresh or used in fruit salads.",
+    "productImage": "1717728864673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 37,
+    "productName": "Honeydew",
+    "productDescription": "Honeydews are round melons with a smooth, pale green skin and sweet, green flesh. They are often eaten fresh or used in fruit salads.",
+    "productImage": "1717728874673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 38,
+    "productName": "Quince",
+    "productDescription": "Quinces are yellow, pear-shaped fruits with a strong aroma and tart flavor. They are often used in cooking and jams.",
+    "productImage": "1717728884673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 39,
+    "productName": "Persimmon",
+    "productDescription": "Persimmons are orange fruits with a sweet, honey-like flavor. They can be eaten fresh, dried, or used in cooking.",
+    "productImage": "1717728894673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 40,
+    "productName": "Cucumber",
+    "productDescription": "Cucumbers are long, green fruits with a crisp texture and mild flavor. They are often used in salads, pickles, and as a refreshing snack.",
+    "productImage": "1717728904673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 41,
+    "productName": "Zucchini",
+    "productDescription": "Zucchinis are green, cylindrical fruits with a mild flavor and tender flesh. They are often used in cooking and baking.",
+    "productImage": "1717728914673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 42,
+    "productName": "Pumpkin",
+    "productDescription": "Pumpkins are large, round, orange fruits with a tough outer skin and sweet, orange flesh inside. They are often used in pies, soups, and decorations.",
+    "productImage": "1717728924673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 43,
+    "productName": "Squash",
+    "productDescription": "Squashes are versatile fruits that come in many shapes, sizes, and colors. They can be eaten fresh, cooked, or used in baking.",
+    "productImage": "1717728934673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 44,
+    "productName": "Tomato",
+    "productDescription": "Tomatoes are red, juicy fruits with a sweet-tart flavor. They are often used in salads, sauces, and cooking.",
+    "productImage": "1717728944673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 45,
+    "productName": "Bell Pepper",
+    "productDescription": "Bell peppers are sweet, crunchy fruits that come in various colors such as green, red, yellow, and orange. They are often used in salads, cooking, and as a snack.",
+    "productImage": "1717728954673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 46,
+    "productName": "Avocado",
+    "productDescription": "Avocados are creamy, green fruits with a mild flavor. They are often used in salads, guacamole, and sandwiches.",
+    "productImage": "1717728964673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 47,
+    "productName": "Eggplant",
+    "productDescription": "Eggplants are purple, glossy fruits with a slightly bitter flavor. They are often used in cooking and baking.",
+    "productImage": "1717728974673.jpg",
+    "isActive": true
+  },
+  {
+    "productId": 48,
+    "productName": "Okra",
+    "productDescription": "Okra is a green, pod-shaped fruit with a mild flavor and slimy texture. It is often used in soups, stews, and fried dishes.",
+    "productImage": "1717728984673.jpg",
+    "isActive": false
+  },
+  {
+    "productId": 49,
+    "productName": "Olive",
+    "productDescription": "Olives are small, oval fruits with a salty, tangy flavor.",
+    "productImage": "1717734137522.jpg",
+    "isActive": true
+  }
+]
